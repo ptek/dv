@@ -6,6 +6,12 @@ the clarity website). There are instructions on how to obtain the export on
 You might need to chose the right clarity website region. For europe it is
 clarity.dexcom.eu (probably for the data protection reasons).
 
+# Example
+
+Running `./plot.py example/example_export_data.csv` produces this plot:
+
+![Example plot](example/plot.png)
+
 # Running the program
 
 Follow the instructions in the **Development** section on how to install
