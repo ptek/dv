@@ -1,0 +1,8 @@
+polars
+pandas
+matplotlib
+ruff
+scipy
+numpy
+argparse
+pyarrow
